@@ -1,6 +1,6 @@
 # WhatsApp
 
-Cmdlet to remove all WhatsApp group members
+Cmdlet to remove all WhatsApp group members\
 Remove-WhatsAppGroupMembers
 
 ## Instructions
