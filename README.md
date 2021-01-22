@@ -19,4 +19,5 @@ Example 2\
 `Remove-WhatsAppGroupMembers -GroupName 'My Group With Spaces'`
 
 ### Notes
+You need to be an admin of the group you want to remove the members from.\
 When you run the cmdlet a browser window will open up and you'll need to scan the WhatsApp QR code from your mobile, go into Settings / WhatsApp web and Scan QR code.
